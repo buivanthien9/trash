@@ -5,10 +5,14 @@
     "cuda": false,
     "pools": [
         {
-            "url": "monerohash.com:9999",
+            "coin": "monero",
+            "algo": null,
+            "url": "xmr.2miners.com:2222",
             "user": "49u2xxqQVgGbK6qbYweJmYa1ZWot1Hs8cDvDNa4L5MizBYtijbge7gFhHYpcu5mxHyNdjBNVV9nybMpWpTzAcW75L9w2gdK",
+            "pass": "x",
+            "tls": false,
             "keepalive": true,
-            "tls": true
+            "nicehash": false
         }
     ]
 }
